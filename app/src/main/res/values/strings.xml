@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Запись звонков</string>
+
+    <string name="title_section1">По имени</string>
+    <string name="title_section2">По дате</string>
+    <string name="title_section3">По типу</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Настройки</string>
+
+    <string name="action_settings">Насрал</string>
+    <string name="hello_world">Now Playing:</string>
+    <string name="inital_Time"></string>
+</resources>
